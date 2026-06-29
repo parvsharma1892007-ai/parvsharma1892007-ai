@@ -70,15 +70,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=parvsharma1892007-ai&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
 
 # 💻 Featured Projects
 
