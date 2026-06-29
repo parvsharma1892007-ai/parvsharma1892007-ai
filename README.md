@@ -28,7 +28,7 @@
 
 📫 Reach Me
 
-📧 Email: your_email@gmail.com
+📧 Email: parvsharma1892007@gmail.com
 
 ---
 
